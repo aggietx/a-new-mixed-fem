@@ -21,4 +21,4 @@ Table 5: mainelastic2d_uns.m rotmesh=2;
 
 Table 6: mainelastic2d_uns.m rotmesh=3
 
-Table 7: mainelastic2d_uns.m rotmesh=1;cp=0;alpha=2;
+Table 7: mainelastic2d_uns.m rotmesh=1;cp=1;alpha=2;
